@@ -34,6 +34,3 @@ chmod +x pwnFi.sh
 sudo ./pwnFi.sh -a Handshake -n wlan0
 ```
 
-## Author
-- [Lautaro D. Villarreal Culic](https://lautarovculic.com)
-
