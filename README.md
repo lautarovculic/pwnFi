@@ -1,5 +1,7 @@
 # pwnFi.sh
 
+![](https://lautarovculic.com/wp-content/uploads/2024/05/pwnfi.png)
+
 ## Description
 This Bash script is designed for performing Wi-Fi penetration testing attacks, specifically targeting WPA/WPA2 networks using PSK (Pre-Shared Key). It supports two attack modes: Handshake and PKMID attack. The script automates various steps including setting up monitor mode, capturing handshakes or PKMID messages, deauthentication, and cracking passwords using Aircrack-ng or John the Ripper.
 
