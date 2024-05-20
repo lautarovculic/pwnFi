@@ -165,5 +165,3 @@ if [ "$(id -u)" == "0" ]; then
 else
 	echo -e "\n${redColor}>> You must be root <<${endColor}\n"
 fi
-	echo -e "\n${redColor}>> You must be root <<${endColor}\n"
-fi
